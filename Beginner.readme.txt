@@ -1,0 +1,32 @@
+# Cyber Security Beginner Lab
+
+## Target
+
+http://testphp.vulnweb.com/
+
+## Tasks Performed
+
+1. Port Scanning using Nmap
+2. Directory Brute Forcing using Gobuster
+3. Network Traffic Analysis using Wireshark
+
+## Tools Used
+
+* Kali Linux
+* Nmap
+* Gobuster
+* Wireshark
+
+## Description
+
+This project demonstrates basic cybersecurity techniques including reconnaissance, directory enumeration, and packet analysis on a vulnerable web application.
+
+## Key Learning
+
+* Identified open ports and services
+* Discovered hidden directories
+* Captured and analyzed login credentials
+
+## Note
+
+This activity was performed on a legal vulnerable testing website for educational purposes only.

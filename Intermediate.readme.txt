@@ -1,0 +1,24 @@
+# Cyber Security Assignment
+
+## Tasks Covered
+
+* VeraCrypt Password Cracking
+* PE Explorer Analysis
+* Metasploit Payload Demonstration
+* WiFi Security Analysis
+
+## Tools Used
+
+* Kali Linux
+* VeraCrypt
+* PE Explorer
+* Aircrack-ng
+* Metasploit
+
+## Description
+
+This repository contains the practical implementation and understanding of basic cybersecurity concepts including encryption, reverse engineering, penetration testing, and wireless security.
+
+## Note
+
+All activities were performed in a controlled lab environment for educational purposes only.
